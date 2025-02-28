@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Thank You for visiting the profile!💬
 </h1>
 - 👋 Hello, I’m Atharv<br>
 - 👀 I’m interested in ...Web Development and exploring Machine Learning too.<br>
