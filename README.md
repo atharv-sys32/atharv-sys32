@@ -7,7 +7,7 @@
 </h1>
 - 👋 Hello, I’m Atharv<br>
 - 👀 I’m interested in ...Web Development and exploring Machine Learning too.<br>
-- 🌱 I’ve currently learned ...MERN Stack andplanning to learn about ML and DL.<br>
+- 🌱 I’ve currently learned ...MERN Stack and planning to learn about ML and DL.<br>
 - 💞 I’m looking to collaborate on ...Web Dev & ML Projects.<br>
 - 📫 How to reach me ...contact atharvpandey245@gmail.com<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv-sys32&label=Profile%20views&color=0e75b6&style=flat" alt="atharv-sys32" /> </p>
