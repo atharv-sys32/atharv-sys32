@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Thank You for visiting the profile!💬
+  Let's know more about me and my repo!💬
 </h1>
 - 👋 Hello, I’m Atharv<br>
 - 👀 I’m interested in ...Web Development and exploring Machine Learning too.<br>
